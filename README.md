@@ -11,6 +11,6 @@ The dataset includes information on:
 
 These data points can be used for statistical analysis, predictive modeling, and marketing strategy optimization.
 
-![alt text](./images/dash.jpg)
+## 📂 Available at: [Kaggle - Marketing Funnel Olist](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist)
 
-## 📂 Available at: Kaggle - Marketing Funnel Olist
+![alt text](./images/dash.jpg)
